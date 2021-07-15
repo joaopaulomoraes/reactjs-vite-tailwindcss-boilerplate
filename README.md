@@ -17,7 +17,7 @@ This project uses many tools like:
 
 ## Getting Started
 
-### Installing
+### Install
 
 Create the project.
 
@@ -41,6 +41,12 @@ Serve with hot reload at http://localhost:3000.
 
 ```bash
 npm run dev
+```
+
+### Lint
+
+```bash
+npm run lint
 ```
 
 ### Build
