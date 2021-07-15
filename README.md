@@ -22,7 +22,7 @@ This project uses many tools like:
 Create the project.
 
 ```bash
-npx create-next-app -e https://github.com/joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate your-app
+npx create-react-app -e https://github.com/joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate your-app
 ```
 
 Access the project directory.
