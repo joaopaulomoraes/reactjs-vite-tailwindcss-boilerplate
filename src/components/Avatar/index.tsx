@@ -1,5 +1,4 @@
-import React from 'react'
-import { classNames } from '../../utils'
+import { classNames } from 'utils'
 
 type Size = 'small' | 'medium' | 'large'
 
