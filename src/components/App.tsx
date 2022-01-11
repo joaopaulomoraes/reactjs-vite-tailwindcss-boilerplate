@@ -3,12 +3,12 @@ import Avatar from 'components/Avatar'
 function App() {
   return (
     <div className="bg-white">
-      <div className="py-16 sm:py-24 px-4 sm:px-6 lg:px-8 mx-auto max-w-screen-xl">
+      <div className="py-16 px-4 mx-auto max-w-screen-xl sm:py-24 sm:px-6 lg:px-8">
         <div className="text-center">
           <h2 className="text-base font-semibold tracking-wide text-blue-600 uppercase">
             Welcome to
           </h2>
-          <p className="my-3 text-4xl sm:text-5xl lg:text-6xl font-bold sm:tracking-tight text-gray-900">
+          <p className="my-3 text-4xl font-bold text-gray-900 sm:text-5xl sm:tracking-tight lg:text-6xl">
             reactjs-vite-tailwindcss-boilerplate
           </p>
           <p className="text-xl text-gray-400">Start building for free.</p>
