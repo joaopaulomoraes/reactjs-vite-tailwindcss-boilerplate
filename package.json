@@ -1,7 +1,7 @@
 {
   "name": "reactjs-vite-tailwindcss-boilerplate",
   "description": "This is a React + vite boilerplate to be used with Tailwindcss.",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "private": true,
   "author": {
     "name": "João Paulo Moraes",
