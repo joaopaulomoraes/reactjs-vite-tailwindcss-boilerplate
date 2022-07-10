@@ -23,7 +23,7 @@ const EmptyAvatar = ({ size = 'medium' }: Pick<AvatarProps, 'size'>) => (
     )}
   >
     <svg
-      className="w-full h-full text-gray-300"
+      className="h-full w-full text-gray-300"
       fill="currentColor"
       viewBox="0 0 24 24"
     >
