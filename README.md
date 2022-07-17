@@ -37,7 +37,7 @@ Install dependencies.
 npm install
 ```
 
-Serve with hot reload at http://localhost:3000.
+Serve with hot reload at <http://localhost:5173>.
 
 ```bash
 npm run dev
@@ -47,6 +47,12 @@ npm run dev
 
 ```bash
 npm run lint
+```
+
+### Typecheck
+
+```bash
+npm run typecheck
 ```
 
 ### Build
