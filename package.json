@@ -17,7 +17,8 @@
     "build": "tsc && vite build",
     "serve": "vite preview",
     "test": "jest",
-    "lint": "eslint src --max-warnings=0"
+    "lint": "eslint src --max-warnings=0",
+    "typecheck": "tsc --project tsconfig.json --noEmit"
   },
   "dependencies": {
     "react": "^18.2.0",
