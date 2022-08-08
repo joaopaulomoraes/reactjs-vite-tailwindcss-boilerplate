@@ -34,37 +34,37 @@ cd my-app
 Install dependencies.
 
 ```bash
-npm install
+pnpm install
 ```
 
 Serve with hot reload at <http://localhost:5173>.
 
 ```bash
-npm run dev
+pnpm run dev
 ```
 
 ### Lint
 
 ```bash
-npm run lint
+pnpm run lint
 ```
 
 ### Typecheck
 
 ```bash
-npm run typecheck
+pnpm run typecheck
 ```
 
 ### Build
 
 ```bash
-npm run build
+pnpm run build
 ```
 
 ### Test
 
 ```bash
-npm run test
+pnpm run test
 ```
 
 ## License
