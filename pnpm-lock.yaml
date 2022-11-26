@@ -9,6 +9,8 @@ specifiers:
   '@testing-library/react': ^13.4.0
   '@types/jest': ^29.2.3
   '@types/node': ^18.11.9
+  '@types/react': ^18.0.25
+  '@types/react-dom': ^18.0.9
   '@typescript-eslint/eslint-plugin': ^5.43.0
   '@typescript-eslint/parser': ^5.43.0
   '@vitejs/plugin-react': ^2.2.0
@@ -44,6 +46,8 @@ devDependencies:
   '@testing-library/react': 13.4.0_biqbaboplfbrettd7655fr4n2y
   '@types/jest': 29.2.3
   '@types/node': 18.11.9
+  '@types/react': 18.0.25
+  '@types/react-dom': 18.0.9
   '@typescript-eslint/eslint-plugin': 5.43.0_nqj4bdx4ekws7aecttskpih4py
   '@typescript-eslint/parser': 5.43.0_hsf322ms6xhhd4b5ne6lb74y4a
   '@vitejs/plugin-react': 2.2.0_vite@3.2.4
