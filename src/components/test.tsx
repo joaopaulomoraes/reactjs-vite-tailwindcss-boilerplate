@@ -8,16 +8,22 @@ describe('<App />', () => {
 
     expect(
       screen.getByRole('heading', {
-        name: /welcome to/i,
-        level: 2
+        name: /Welcome!/i,
+        level: 1
       })
     ).toBeInTheDocument()
 
     expect(
-      screen.getByText(/reactjs-vite-tailwindcss-boilerplate/i)
+      screen.getByText(
+        /This is a boilerplate build with React 18, TypeScript, Jest, Testing Library, TailwindCSS 3, Vite, Eslint and Prettier./i
+      )
     ).toBeInTheDocument()
 
-    expect(screen.getByText(/start building for free./i)).toBeInTheDocument()
+    expect(
+      screen.getByRole('link', {
+        name: /start building for free/i
+      })
+    ).toBeInTheDocument()
 
     expect(screen.getByRole('img')).toBeInTheDocument()
 
