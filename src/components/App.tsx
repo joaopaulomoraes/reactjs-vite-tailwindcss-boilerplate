@@ -16,8 +16,8 @@ function App() {
               Welcome!
             </h1>
             <p className="mt-4 text-xl text-gray-500">
-              This is a boilerplate build with React 18, TypeScript, Jest,
-              Testing Library, TailwindCSS 3, Vite, Eslint and Prettier.
+              This is a boilerplate build with Vite, React 18, TypeScript,
+              Vitest, Testing Library, TailwindCSS 3, Eslint and Prettier.
             </p>
           </div>
           <div>

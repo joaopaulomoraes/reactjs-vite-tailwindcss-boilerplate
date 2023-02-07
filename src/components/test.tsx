@@ -15,7 +15,7 @@ describe('<App />', () => {
 
     expect(
       screen.getByText(
-        /This is a boilerplate build with React 18, TypeScript, Jest, Testing Library, TailwindCSS 3, Vite, Eslint and Prettier./i
+        /This is a boilerplate build with Vite, React 18, TypeScript, Vitest, Testing Library, TailwindCSS 3, Eslint and Prettier./i
       )
     ).toBeInTheDocument()
 
