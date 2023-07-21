@@ -3,7 +3,7 @@ import Avatar from 'components/Avatar'
 function App() {
   return (
     <div className="relative overflow-hidden bg-white">
-      <div className="h-screen sm:pt-24 sm:pb-40 lg:pt-40 lg:pb-48">
+      <div className="h-screen sm:pb-40 sm:pt-24 lg:pb-48 lg:pt-40">
         <div className="relative mx-auto max-w-7xl px-4 sm:static sm:px-6 lg:px-8">
           <div className="sm:max-w-lg">
             <div className="my-4">
@@ -24,7 +24,7 @@ function App() {
             <div className="my-10">
               <a
                 href="vscode://"
-                className="inline-block rounded-md border border-transparent bg-indigo-600 py-3 px-8 text-center font-medium text-white hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-700 focus:ring-offset-2"
+                className="inline-block rounded-md border border-transparent bg-indigo-600 px-8 py-3 text-center font-medium text-white hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-700 focus:ring-offset-2"
               >
                 Start building for free
               </a>
