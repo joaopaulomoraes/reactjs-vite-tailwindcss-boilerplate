@@ -51,7 +51,7 @@ function App() {
                             <img
                               src={`https://picsum.photos/600?random=${number}`}
                               alt=""
-                              className="h-full w-full bg-indigo-100 object-cover object-center"
+                              className="size-full bg-indigo-100 object-cover object-center"
                             />
                           </div>
                         ))}
