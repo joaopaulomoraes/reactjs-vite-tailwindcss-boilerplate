@@ -4,6 +4,7 @@
     "esbenp.prettier-vscode",
     "dbaeumer.vscode-eslint",
     "editorconfig.editorconfig",
-    "stivo.tailwind-fold"
+    "stivo.tailwind-fold",
+    "vitest.explorer"
   ]
 }
