@@ -29,8 +29,8 @@
   "devDependencies": {
     "@testing-library/jest-dom": "^6.6.2",
     "@testing-library/react": "^14.3.1",
-    "@types/node": "^20.16.13",
-    "@types/react": "^18.3.11",
+    "@types/node": "^20.17.1",
+    "@types/react": "^18.3.12",
     "@types/react-dom": "^18.3.1",
     "@typescript-eslint/eslint-plugin": "^6.21.0",
     "@typescript-eslint/parser": "^6.21.0",
@@ -40,7 +40,7 @@
     "eslint": "^8.57.1",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-prettier": "^5.2.1",
-    "eslint-plugin-react": "^7.37.1",
+    "eslint-plugin-react": "^7.37.2",
     "eslint-plugin-react-hooks": "^4.6.2",
     "eslint-plugin-tailwindcss": "^3.17.5",
     "happy-dom": "^12.10.3",
@@ -48,7 +48,7 @@
     "prettier": "3.1.1",
     "tailwindcss": "^3.4.14",
     "typescript": "^5.6.3",
-    "vite": "^5.4.9",
+    "vite": "^5.4.10",
     "vite-tsconfig-paths": "^4.3.2",
     "vitest": "^1.6.0"
   }
