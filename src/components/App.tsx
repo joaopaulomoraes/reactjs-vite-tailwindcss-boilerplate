@@ -1,5 +1,6 @@
 import Avatar from 'components/Avatar'
 import logo from 'assets/logo.svg'
+import '../index.css'
 
 const randoms = [
   [1, 2],
